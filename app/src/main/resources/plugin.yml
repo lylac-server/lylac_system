@@ -1,0 +1,9 @@
+name: lylac_system
+version: 0.0.1
+main: net.kamilereon.lylac_system.LylacSystem
+description: An example plugin
+author: kamilereon
+api-version: "1.20"
+commands:
+  lylac:
+depend: [ProtocolLib]
